@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kuntbeats
-- 👀 I’m interested in art
+- 👀 I’m interested in all forms of art
 - 🌱 I’m currently learning TouchDesigner
-- 📫 How to reach me kuntbeats@gmail.com
+- 📫 Reach me on kuntbeats@gmail.com
+- 📜 Checkout my work [here](https://kuntbeats.github.io/AyushKhatri-Portfolio/)
 
 <!---
 kuntbeats/kuntbeats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
